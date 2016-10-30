@@ -1,5 +1,5 @@
-composer = 'Mozart'
-puts composer + ' was "da bomb", in his day.'
+var = 'just another ' + 'string'
+puts var
 
-composer = 'Beethoven'
-puts 'But I prefer ' + composer + ', personally.'
+var = 5 * (1+2)
+puts var
