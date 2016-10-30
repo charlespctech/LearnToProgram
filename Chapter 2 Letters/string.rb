@@ -1,4 +1,4 @@
 puts 'I like ' + 'apple pie.'
 puts 'I like' + ' apple pie.'
 
-test2
+puts 'blink ' * 4
