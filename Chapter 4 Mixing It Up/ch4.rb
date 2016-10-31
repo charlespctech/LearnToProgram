@@ -1,6 +1,6 @@
-puts 'Hello there, what\'s your name first name?'
-firstname = gets.chomp
-puts 'What\'s your last name?'
-lastname = gets.chomp
-puts 'Your name is ' + firstname + ' ' + lastname + '?  What a lovely name!'
-puts 'Pleased to meet you, ' + firstname + ' ' + lastname +  '.  :)'
+puts 'Hello there, what\'s your favorite number?'
+Number1 = gets
+Number2 = 1
+puts 'Wouldn\'t you rather have a better number?'
+puts 'your number is ' 
+puts Number1.to_i + Number2
